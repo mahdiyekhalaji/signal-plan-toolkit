@@ -1,0 +1,78 @@
+{
+  "_comment": "Yonge St, Steeles to Finch. Cross-street lane counts and corner radii are assumptions: 3 lanes and R12 at the arterial crossings, 1 lane and R7 at local streets. Verify each against aerial imagery.",
+  "arterial": "Yonge St",
+  "signals": [
+    {
+      "count_id": "116429",
+      "name": "Steeles Ave E / Yonge St / Steeles Ave W",
+      "px": "131",
+      "through_lanes": 3,
+      "cross_lanes": 3,
+      "radius": 12.0,
+      "median_ns": 2.0
+    },
+    {
+      "count_id": "116426",
+      "name": "Yonge St / Athabaska Ave",
+      "px": "1381",
+      "through_lanes": 3,
+      "cross_lanes": 1,
+      "radius": 7.0,
+      "median_ns": 2.0
+    },
+    {
+      "count_id": "116427",
+      "name": "Yonge St / Madawaska Ave / Moore Park Av",
+      "px": "130",
+      "through_lanes": 3,
+      "cross_lanes": 1,
+      "radius": 7.0,
+      "median_ns": 2.0
+    },
+    {
+      "count_id": "116428",
+      "name": "Yonge St / Patricia Ave",
+      "px": "856",
+      "through_lanes": 3,
+      "cross_lanes": 1,
+      "radius": 7.0,
+      "median_ns": 2.0
+    },
+    {
+      "count_id": "116114",
+      "name": "Yonge St / Cummer Ave / Drewry Ave",
+      "px": "129",
+      "through_lanes": 3,
+      "cross_lanes": 3,
+      "radius": 12.0,
+      "median_ns": 2.0
+    },
+    {
+      "count_id": "116116",
+      "name": "Yonge St / Olympic Garden Dr / Narges Dr",
+      "px": "2177",
+      "through_lanes": 3,
+      "cross_lanes": 1,
+      "radius": 7.0,
+      "median_ns": 2.0
+    },
+    {
+      "count_id": "116122",
+      "name": "Yonge St / Hendon Ave / Bishop Ave",
+      "px": "1151",
+      "through_lanes": 3,
+      "cross_lanes": 1,
+      "radius": 7.0,
+      "median_ns": 2.0
+    },
+    {
+      "count_id": "116119",
+      "name": "Finch Ave E / Yonge St / Finch Ave W",
+      "px": "128",
+      "through_lanes": 3,
+      "cross_lanes": 3,
+      "radius": 12.0,
+      "median_ns": 2.0
+    }
+  ]
+}
