@@ -1,0 +1,81 @@
+{
+  "_comment": "Steeles Ave / Yonge St, PX 131. Lane counts follow OpenStreetMap lane and turn:lanes tags where present; the split of the curb lane and all corner geometry remain assumptions.",
+  "defaults": {
+    "lane_width": 3.3,
+    "grade": 0.0,
+    "parking": false,
+    "area_type_cbd": false
+  },
+  "lane_groups": [
+    {
+      "approach": "n",
+      "movements": "l",
+      "lanes": 1,
+      "exclusive_left": true
+    },
+    {
+      "approach": "n",
+      "movements": "t",
+      "lanes": 2
+    },
+    {
+      "approach": "n",
+      "movements": "r",
+      "lanes": 1,
+      "exclusive_right": true,
+      "buses_stopping": 12
+    },
+    {
+      "approach": "s",
+      "movements": "l",
+      "lanes": 1,
+      "exclusive_left": true
+    },
+    {
+      "approach": "s",
+      "movements": "t",
+      "lanes": 2
+    },
+    {
+      "approach": "s",
+      "movements": "r",
+      "lanes": 1,
+      "exclusive_right": true,
+      "buses_stopping": 12
+    },
+    {
+      "approach": "e",
+      "movements": "l",
+      "lanes": 1,
+      "exclusive_left": true
+    },
+    {
+      "approach": "e",
+      "movements": "t",
+      "lanes": 2
+    },
+    {
+      "approach": "e",
+      "movements": "r",
+      "lanes": 1,
+      "exclusive_right": true
+    },
+    {
+      "approach": "w",
+      "movements": "l",
+      "lanes": 1,
+      "exclusive_left": true
+    },
+    {
+      "approach": "w",
+      "movements": "t",
+      "lanes": 2
+    },
+    {
+      "approach": "w",
+      "movements": "r",
+      "lanes": 1,
+      "exclusive_right": true
+    }
+  ]
+}
